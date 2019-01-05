@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\bin\Debug\MiniAplicacionPruebaTecnica1.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\bin\Debug\MiniAplicacionPruebaTecnica1.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\bin\Debug\MiniAplicacionPruebaTecnica1.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\obj\x86\Debug\MiniAplicacionPruebaTecnica1.frmMiniAppPdfRest.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\obj\x86\Debug\MiniAplicacionPruebaTecnica1.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\obj\x86\Debug\MiniAplicacionPruebaTecnica1.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\obj\x86\Debug\MiniAplicacionPruebaTecnica1.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\obj\x86\Debug\MiniAplicacionPruebaTecnica1.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\obj\x86\Debug\MiniAplicacionPruebaTecnica1.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\bin\Debug\itextsharp.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\MiniAplicacionPruebaTecnica1\MiniAplicacionPruebaTecnica1\obj\x86\Debug\MiniAplicacionPruebaTecnica1.vbprojResolveAssemblyReference.cache
